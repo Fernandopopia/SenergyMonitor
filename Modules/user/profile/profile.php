@@ -108,7 +108,7 @@ function languagecode_to_name($langs) {
             <span class="readapikey" id="copyapiread"></span>
             <span id="msg"></span>
         </div>
-        <div class="account-item">
+        <!--<div class="account-item">
             <span class="muted"><?php echo _('App Integration QR Code'); ?></span>
             <div id="qr_apikey"></div>
             <br>
@@ -118,7 +118,7 @@ function languagecode_to_name($langs) {
 	        <div style="width:150px"><a href="https://play.google.com/store/apps/details?id=org.emoncms.myapps&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1">
 	            <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" /></a></div>
         </div>
-        </div>
+        </div>-->
     </div>
     <div class="span8">
         <h3><?php echo _('My Profile'); ?></h3>
